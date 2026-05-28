@@ -2,7 +2,7 @@
 
 An interactive Multi-Tool AI Agent application built with Streamlit. This project leverages **LangChain ReAct Agents** and Groq's high-performance `llama-3.3-70b-versatile` model to combine natural language reasoning, automated internet search via Wikipedia, and a secure, injection-proof mathematical calculator.
 
-**Live Link:** 
+**Live Link:** https://mathgptrag.streamlit.app/
 
 ---
 
